@@ -1,6 +1,6 @@
 # truscaivoichita.github.io
 
-Personal Portofolio of Voichita Maria Truscai
+Personal Portfolio of Voichita Maria Truscai
 
 # link [here](https://truscaivoichita.github.io/)
 
@@ -21,7 +21,7 @@ Personal Portofolio of Voichita Maria Truscai
 
 ## - [ ] - Projects
 
-- [x] - Portofolio
+- [x] - Portfolio
 
 ## - [x] - Tehnologies used:
 
@@ -32,14 +32,19 @@ Personal Portofolio of Voichita Maria Truscai
 - [x] title>
 - [x] body>
 - [x] - h1> tag
-- [ ] - h2> tag
-- [ ] - h3> tag
+- [x] - h2> tag
+- [x] - h3> tag
 - [ ] - h4> tag
 - [ ] - h5> tag
 - [ ] - h6> tag
 - [x] - img> tag
-- [ ] - br> tag
-- [ ] - hr> tag
+- [x] - src
+- [x] - alt
+- [x] - width
+- [x] - height
+- [x] - title
+- [x] - br> tag
+- [x] - hr> tag
 - [ ] - pre> tag
 - [ ] - style> tag
 - [ ] - background-color
@@ -77,15 +82,15 @@ Personal Portofolio of Voichita Maria Truscai
 - [ ] - padding
 - [ ] - margin
 - [ ] - link> tag
-- [ ] - a> tag = hiperlink
-- [ ] - href
+- [x] - a> tag = hiperlink
+- [x] - href
 - [ ] - unvisited link
 - [ ] - visited link
 - [ ] - active link
 - [ ] - hover link
-- [ ] - target
+- [x] - target
 - [ ] - "...\_self"
-- [ ] - "...\_blank"
+- [x] - "...\_blank"
 - [ ] - "...\_parent"
 - [ ] - "...\_top"
 - [ ] - Absolute URL
