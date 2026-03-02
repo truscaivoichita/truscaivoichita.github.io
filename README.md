@@ -8,27 +8,26 @@ Personal Portofolio of Voichita Maria Truscai
 
 - [ ] - Goals
 
-  -[x]- HTML
+  - [x] - HTML
   - [ ] - CSS
-
   - [ ] - JavaScript
-
   - [ ] - GIT & Github
-
   - [ ] - React/Angular
-
   - [ ] - SpringBoot
-    - [ ] - RestAPIs with SpringBoot
-    - [ ] - MySQL/PostgreeSQL/MangoDB
-    - [ ] - Authentification+Deployment(JWT,QAuth, Docker, AWS)
-    - [ ] - Deploy first FULL PROJECT
+  - [ ] - RestAPIs with SpringBoot
+  - [ ] - MySQL/PostgreeSQL/MangoDB
+  - [ ] - Authentification+Deployment(JWT,QAuth, Docker, AWS)
+  - [ ] - Deploy first FULL PROJECT
 
-- [ ] - Projects
+## - [ ] - Projects
 
-- [x] - Tehnologies used:
+- [x] - Portofolio
+
+## - [x] - Tehnologies used:
+
 - [x] - HTML
 - [x] !DOCTYPE html>
-- [x] html>
+- [x] html lang>
 - [x] head>
 - [x] title>
 - [x] body>
