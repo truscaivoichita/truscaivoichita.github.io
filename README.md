@@ -1,6 +1,6 @@
 # truscaivoichita.github.io
 
-Personal Portfolio of Voichita Maria Truscai
+## Personal Portfolio of Voichita Maria Truscai
 
 # link [here](https://truscaivoichita.github.io/)
 
@@ -9,7 +9,7 @@ Personal Portfolio of Voichita Maria Truscai
 - [ ] - Goals
 
   - [x] - HTML
-  - [ ] - CSS
+  - [x] - CSS
   - [ ] - JavaScript
   - [ ] - GIT & Github
   - [ ] - React/Angular
@@ -57,7 +57,7 @@ Personal Portfolio of Voichita Maria Truscai
 - [x] - i> tag
 - [x] - em> tag
 - [x] - mark> tag
-- [ ] - small> tag
+- [x] - small> tag
 - [ ] - del> tag
 - [ ] - ins> tag
 - [ ] - sub> tag
@@ -71,16 +71,16 @@ Personal Portfolio of Voichita Maria Truscai
 - [x] - < !--Commentes--> > tag
 - [x] - border
 - [x] - Color: rgb(red, green, blue)
-- [ ] - Color: rgba(red, green, blue, alpha)
+- [x] - Color: rgba(red, green, blue, alpha)
 - [x] - Color: #rrggbb
-- [ ] - Color: hsl(hue, saturation, lightness)
-- [ ] - Color: hsla(hue, saturation, lightness, alpha)
-- [ ] - CSS:-inline
-- [ ] - CSS:-internal
-- [ ] - CSS:-external
+- [x] - Color: hsl(hue, saturation, lightness)
+- [x] - Color: hsla(hue, saturation, lightness, alpha)
+- [x] - CSS:-inline
+- [x] - CSS:-internal
+- [x] - CSS:-external
 - [x] - border
-- [ ] - padding
-- [ ] - margin
+- [x] - padding
+- [x] - margin
 - [x] - link> tag
 - [x] - a> tag = hiperlink
 - [x] - href
