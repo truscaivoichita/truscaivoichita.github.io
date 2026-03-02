@@ -34,9 +34,9 @@ Personal Portfolio of Voichita Maria Truscai
 - [x] - h1> tag
 - [x] - h2> tag
 - [x] - h3> tag
-- [ ] - h4> tag
+- [x] - h4> tag
 - [ ] - h5> tag
-- [ ] - h6> tag
+- [x] - h6> tag
 - [x] - img> tag
 - [x] - src
 - [x] - alt
@@ -46,42 +46,42 @@ Personal Portfolio of Voichita Maria Truscai
 - [x] - br> tag
 - [x] - hr> tag
 - [ ] - pre> tag
-- [ ] - style> tag
-- [ ] - background-color
-- [ ] - color
-- [ ] - font-family
-- [ ] - font-size
-- [ ] - text-align
-- [ ] - b> tag
-- [ ] - strong> tag
-- [ ] - i> tag
-- [ ] - em> tag
-- [ ] - mark> tag
+- [x] - style> tag
+- [x] - background-color
+- [x] - color
+- [x] - font-family
+- [x] - font-size
+- [x] - text-align
+- [x] - b> tag
+- [x] - strong> tag
+- [x] - i> tag
+- [x] - em> tag
+- [x] - mark> tag
 - [ ] - small> tag
 - [ ] - del> tag
 - [ ] - ins> tag
 - [ ] - sub> tag
 - [ ] - sup> tag
-- [ ] - blockquote> tag
-- [ ] - q> tag
-- [ ] - abbr> tag
-- [ ] - address> tag
+- [x] - blockquote> tag
+- [x] - q> tag
+- [x] - abbr> tag
+- [x] - address> tag
 - [ ] - cite> tag
 - [ ] - bdo> tag
-- [ ] - < !--Commentes--> > tag
-- [ ] - border
-- [ ] - Color: rgb(red, green, blue)
+- [x] - < !--Commentes--> > tag
+- [x] - border
+- [x] - Color: rgb(red, green, blue)
 - [ ] - Color: rgba(red, green, blue, alpha)
-- [ ] - Color: #rrggbb
+- [x] - Color: #rrggbb
 - [ ] - Color: hsl(hue, saturation, lightness)
 - [ ] - Color: hsla(hue, saturation, lightness, alpha)
 - [ ] - CSS:-inline
 - [ ] - CSS:-internal
 - [ ] - CSS:-external
-- [ ] - border
+- [x] - border
 - [ ] - padding
 - [ ] - margin
-- [ ] - link> tag
+- [x] - link> tag
 - [x] - a> tag = hiperlink
 - [x] - href
 - [ ] - unvisited link
