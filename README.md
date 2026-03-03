@@ -43,6 +43,8 @@
 - [x] - width
 - [x] - height
 - [x] - title
+- [x] - float:right
+- [x] - float:left
 - [x] - br> tag
 - [x] - hr> tag
 - [ ] - pre> tag
@@ -84,10 +86,10 @@
 - [x] - link> tag
 - [x] - a> tag = hiperlink
 - [x] - href
-- [ ] - unvisited link
-- [ ] - visited link
-- [ ] - active link
-- [ ] - hover link
+- [x] - unvisited link
+- [x] - visited link
+- [x] - active link
+- [x] - hover link
 - [x] - target
 - [ ] - "...\_self"
 - [x] - "...\_blank"
@@ -97,3 +99,26 @@
 - [ ] - Relative URL
 - [ ] - a href="...">img src="..."></a>
 - [ ] - bookmarks (id="#goTo...")
+- [ ] - map> tag
+- [ ] - name="workmap"
+- [ ] - shape="rect"
+- [ ] - coords="margin-left-px, top-px, margin-right-px, top-px"
+- [ ] - shape="circle"
+- [ ] - coords="center-top, center-left, radius"
+- [ ] - shape="poly"
+- [ ] - coords="all x anf y coordinates"
+- [ ] - shape="default"
+- [ ] - area> tag
+- [ ] - usemap="#map"
+- [ ] - onclick="myFunction()"
+- [x] - background-image:url("image_path.jpg");
+- [x] - background-repeat:no-repeat;
+- [x] - background-attachment:fixed;
+- [ ] - background-size:cover;
+- [x] - background-size:100% 100%;
+- [ ] - picture> tag
+- [ ] - source> tag
+- [ ] - media="min-width:650px"
+- [ ] - media="min-width:465px"
+- [ ] - serset="img_name.jpg"
+- [x] - favicon.ico-link-title

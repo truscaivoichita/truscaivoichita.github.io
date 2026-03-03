@@ -4,6 +4,12 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portfolio</title>
+    <link
+      rel="shortcut icon"
+      href="images/favicon-32x32.png"
+      type="image/x-icon"
+    />
+
     <style>
       body {
         background-color: #f4f4f4;
@@ -15,25 +21,49 @@
   </head>
   <body>
     <!-- Header-->
-    <p id="top"></p>
-    <a href="#about">About Me</a>
-    | <a href="#skills">Skills</a> | <a href="#projects">Projects</a> |
-    <a href="#languages">Languages</a> | <a href="#work">Work</a> |
-    <a href="#education">Education</a> | <a href="#career">Career</a> |
-    <a href="#tech">Tech Transition</a> |
-    <a href="#contact">Contact</a>
-    <h1 style="color: green">Truscai Voichita Maria</h1>
-    <img
-      src="images/selfie.jpg"
-      width="120px"
-      height="120px"
-      alt="Voichita Maria Truscai"
-    />
-    <p>
+    <a
+      href="https://www.linkedin.com/in/voichita-maria-truscai/"
+      style="background-color: white; border: none; padding: 0px"
+    >
+      <img
+        src="images/selfie.jpg"
+        width="120px"
+        height="120px"
+        alt="Voichita Maria Truscai"
+    /></a>
+
+    <p
+      id="top"
+      style="
+        border-left: 15px solid green;
+        padding-left: 60px;
+        padding-top: 50px;
+        margin-left: 180px;
+        height: 100px;
+        border-bottom: 15px solid green;
+        margin-bottom: 40px;
+        background-image: url(&quot;images/orange.jpg&quot;);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+        text-align: right;
+      "
+      ;
+    >
       Transport Manager with international experience and a growing passion for
-      Full-Stack Development. Combining operational leadership with technical
-      problem-solving skills.
+      Full-Stack Development. <br />Combining operational leadership with
+      technical problem-solving skills.
     </p>
+    <p>
+      <a href="#about" style="margin-left: 160px">About Me</a>
+      | <a href="#skills">Skills</a> | <a href="#projects">Projects</a> |
+      <a href="#languages">Languages</a> | <a href="#work">Work</a> |
+      <a href="#education">Education</a> | <a href="#career">Career</a> |
+      <a href="#tech">Tech Transition</a> | <a href="#gallery">Gallery</a> |
+      <a href="#contact">Contact</a>
+    </p>
+    <h1 style="color: black">Truscai Voichita Maria</h1>
+
     <hr />
 
     <h2 id="about">About Me</h2>
@@ -152,24 +182,65 @@
         businesses and strong digital solutions."</em
       >
     </blockquote>
+    <hr />
 
+    <h2 id="gallery">Gallery</h2>
+    <map name="photosMap">
+      <area
+        shape="rect"
+        coords="0, 0, 265, 125 "
+        alt="image1"
+        href="image1.html"
+      />
+      <area
+        shape="rect"
+        coords="350, 0, 600, 125 "
+        alt="image2"
+        href="image2.html"
+      />
+      <area
+        shape="rect"
+        coords="685, 0, 935, 125 "
+        alt="image3"
+        href="image3.html"
+      />
+      <area
+        shape="rect"
+        coords="1010, 0, 1270, 125 "
+        alt="image4"
+        href="image4.html"
+      />
+      <img
+        src="images/collection.png"
+        alt="images collection"
+        usemap="#photosMap"
+        onclick="clickedImage()"
+      />
+    </map>
     <hr />
     <h2 id="contact">Contact</h2>
     <p>
       My contact
-      <a href="mailto:truscai_voichita@yahoo.com"><mark>email</mark></a>
+      <a href="mailto:truscai_voichita@yahoo.com">email</a>
     </p>
+    <br />
     <p>
       LinkedIn
-      <a href="https://www.linkedin.com/in/voichita-maria-truscai/"
-        ><mark>Profile</mark></a
-      >
+      <a href="https://www.linkedin.com/in/voichita-maria-truscai/">Profile</a>
     </p>
-    <address>Spain, Torreblanca, Castellon</address>
+    <address>
+      📌 Spain, <br /><mark>Torreblanca,</mark> <br />
+      Castellon
+    </address>
 
     <p style="text-align: center">
       <small> Built with HTML & CSS | © 2026 Voichita Maria Truscai</small>
     </p>
     <a href="#top">Back to Top</a>
   </body>
+  <script>
+    function clickedImage() {
+      alert("Image clicked");
+    }
+  </script>
 </html>
