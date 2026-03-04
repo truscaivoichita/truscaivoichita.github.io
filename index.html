@@ -10,60 +10,39 @@
       type="image/x-icon"
     />
 
-    <style>
-      body {
-        background-color: #f4f4f4;
-        font-family:
-          "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-      }
-    </style>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <!-- Header-->
-    <a
-      href="https://www.linkedin.com/in/voichita-maria-truscai/"
-      style="background-color: white; border: none; padding: 0px"
-    >
+    <a id="link" href="https://www.linkedin.com/in/voichita-maria-truscai/">
       <img
+        id="logo"
         src="images/selfie.jpg"
         width="120px"
         height="120px"
         alt="Voichita Maria Truscai"
     /></a>
 
-    <p
-      id="top"
-      style="
-        border-left: 15px solid green;
-        padding-left: 60px;
-        padding-top: 50px;
-        margin-left: 180px;
-        height: 100px;
-        border-bottom: 15px solid green;
-        margin-bottom: 40px;
-        background-image: url(&quot;images/orange.jpg&quot;);
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: 100% 100%;
-        text-align: right;
-      "
-      ;
-    >
+    <p id="top">
       Transport Manager with international experience and a growing passion for
       Full-Stack Development. <br />Combining operational leadership with
       technical problem-solving skills.
     </p>
-    <p>
-      <a href="#about" style="margin-left: 160px">About Me</a>
-      | <a href="#skills">Skills</a> | <a href="#projects">Projects</a> |
-      <a href="#languages">Languages</a> | <a href="#work">Work</a> |
-      <a href="#education">Education</a> | <a href="#career">Career</a> |
-      <a href="#tech">Tech Transition</a> | <a href="#gallery">Gallery</a> |
-      <a href="#contact">Contact</a>
-    </p>
-    <h1 style="color: black">Truscai Voichita Maria</h1>
 
+    <ul>
+      <li><a href="#about">About Me</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#languages">Languages</a></li>
+      <li><a href="#work">Work</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#career">Career</a></li>
+      <li><a href="#tech">Tech Transition</a></li>
+      <li><a href="#gallery">Gallery</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+
+    <h1>Truscai Voichita Maria</h1>
     <hr />
 
     <h2 id="about">About Me</h2>
@@ -95,16 +74,19 @@
     <hr />
 
     <h2 id="skills">Skills & Endorsements</h2>
-    <h4>Technical Skills:</h4>
-    <p>✔ <abbr title="Hyper Text Markup Language">HTML</abbr></p>
-    <p>✔ <abbr title="Cascading Style Sheet">CSS</abbr></p>
-    <p>✔ <abbr title="JavaScript">JS</abbr></p>
-
-    <h4>Professional Skills:</h4>
-    <p>✔ Logistics Coordination</p>
-    <p>✔ Regulatory Compliance</p>
-    <p>✔ Leadership & Team Management</p>
-    <p>✔ Problem-Solving</p>
+    <h3>Technical Skills:</h4>
+    <ul id="tskills">
+      <li>✔ <abbr title="Hyper Text Markup Language">HTML</abbr></li>
+      <li>✔ <abbr title="Cascading Style Sheet">CSS</abbr></li>
+      <li>✔ <abbr title="JavaScript">JS</abbr></li>
+    </ul>
+    <h3>Professional Skills:</h4>
+    <ul id="pskills">
+      <li>✔ Logistics Coordination</li>
+      <li>✔ Regulatory Compliance</li>
+      <li>✔ Leadership & Team Management</li>
+      <li>✔ Problem-Solving</li>
+    </ul>
     <hr />
 
     <h2 id="projects">Projects</h2>
@@ -113,26 +95,52 @@
       <a href="https://truscai_voichita.github.io" target="_blank">github</a>
     </p>
     <p>✔ Portfolio</p>
+    <p>✔ Truscai Transport</p>
     <hr />
 
     <h2 id="languages">Languages</h2>
-    <p>✔ Romanian - <b>native</b></p>
-    <p>✔ English - <i>advanced</i></p>
-    <p>✔ Spanish - beginner</p>
-    <p>✔ French - beginner</p>
+    <table>
+      <tr>
+        <th>Language</th>
+        <th>Level</th>
+      </tr>
+      <tr>
+        <td>Romanian</td>
+        <td><b>native</b></td>
+      </tr>
+      <tr>
+        <td>English</td>
+        <td><i>advanced</i></td>
+      </tr>
+      <tr>
+        <td>Spanish</td>
+        <td><strong>beginner</strong></td>
+      </tr>
+      <tr>
+        <td>French</td>
+        <td>beginner</td>
+      </tr>
+    </table>
+
     <hr />
 
     <h2 id="work">Work Experience</h2>
-    <h3>Transport Manager – Family Business (Spain)</h3>
-    <h4>2023 – Present</h4>
-    <p>=> Oversee daily logistics operations</p>
-    <p>=> Ensure regulatory compliance</p>
-    <p>=> Optimize routes for efficiency</p>
+    <h3>Transport Manager - Family Business (Spain)</h4>
+    <h4>2023 - Present</h6>
+    <ul id="worke">
+      <li>✔ Oversee daily logistics operations</li>
+      <li>✔ Ensure regulatory compliance</li>
+      <li>✔ Optimize routes for efficiency</li>
+    </ul>
+
     <hr />
 
     <h2 id="education">Education & Certifications</h2>
-    <p>Web Development Course – 2023</p>
-    <p>Transport Management Certificate - 2022</p>
+    <ul id="educationc">
+      <li>✔ Web Development Course - 2023</li>
+      <li>✔ Transport Management Certificate - 2022</li>
+    </ul>
+
     <hr />
 
     <h2 id="career">Career Goal</h2>
@@ -160,27 +168,24 @@
       important in the world of software development.
     </p>
     <blockquote>
-      <em
-        >"Efficiency in logistics and efficiency in code follow the same
-        principles."</em
-      >
+      "Efficiency in logistics and efficiency in code follow the same
+      principles."
     </blockquote>
     <hr />
 
     <h2>Personal Philosophy</h2>
     <blockquote>
-      <em
-        >"Adaptability and continuous learning have shaped both my journey and
-        my future."</em
-      >
-      <q>
-        Leadership is not about position, but about responsibility and impact.
-      </q>
-      <p><strong>"Growth begins at the end of your comfort zone."</strong></p>
-      <em>
-        "I believe continuous learning is the key to building both strong
-        businesses and strong digital solutions."</em
-      >
+      "Adaptability and continuous learning have shaped both my journey and my
+      future."
+    </blockquote>
+
+    <blockquote>
+      "Leadership is not about position, but about responsibility and impact."
+    </blockquote>
+    <blockquote>"Growth begins at the end of your comfort zone."</blockquote>
+    <blockquote>
+      "I believe continuous learning is the key to building both strong
+      businesses and strong digital solutions."
     </blockquote>
     <hr />
 
@@ -218,6 +223,7 @@
       />
     </map>
     <hr />
+
     <h2 id="contact">Contact</h2>
     <p>
       My contact
@@ -235,8 +241,8 @@
 
     <p style="text-align: center">
       <small> Built with HTML & CSS | © 2026 Voichita Maria Truscai</small>
+      <a href="#top" style="text-align: right">Back to Top</a>
     </p>
-    <a href="#top">Back to Top</a>
   </body>
   <script>
     function clickedImage() {

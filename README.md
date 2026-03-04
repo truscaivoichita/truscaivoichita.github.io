@@ -53,7 +53,7 @@
 - [x] - color
 - [x] - font-family
 - [x] - font-size
-- [x] - text-align
+- [x] - text-align:center/left/right
 - [x] - b> tag
 - [x] - strong> tag
 - [x] - i> tag
@@ -80,7 +80,6 @@
 - [x] - CSS:-inline
 - [x] - CSS:-internal
 - [x] - CSS:-external
-- [x] - border
 - [x] - padding
 - [x] - margin
 - [x] - link> tag
@@ -122,3 +121,51 @@
 - [ ] - media="min-width:465px"
 - [ ] - serset="img_name.jpg"
 - [x] - favicon.ico-link-title
+- [x] - table> tag
+- [x] - tr> tag
+- [x] - th> tag
+- [x] - td> tag
+- [x] - border-collapse:collapse;
+- [x] - border-radius:10px;
+- [x] - border-style:none;
+- [] - border-style:dotted;
+- [] - border-style:dashed;
+- [] - border-style:solid;
+- [] - border-style:double;
+- [] - border-style:grove;
+- [] - border-style:ridge;
+- [] - border-style:inset;
+- [] - border-style:outset;
+- [] - border-style:hidden;
+- [] - border-color:#fff;
+- [] - border-spacing:30px;
+- [] - border-bottom:10px;
+- [x] - width:100%;
+- [] - height:200px;
+- [] - colspan="2";
+- [] - rowspan="2";
+- [] - caption> tag
+- [] - padding-top;
+- [] - padding-left;
+- [] - padding-right;
+- [] - padding-bottom;
+- [] - :nth-child(even/odd);
+- [] - colgroup> tag
+- [] - col> tag
+- [] - span="2";
+- [] - visibility:collapse;
+- [x] - ul> tag
+- [x] - li> tag
+- [] - ol> tag
+- [] - dl> tag
+- [] - dt> tag
+- [] - dd> tag
+- [x] - list-style-type:none;
+- [] - list-style-type:disc;
+- [] - list-style-type:circle;
+- [] - list-style-type:square;
+- [x] - overflow:hidden;
+- [x] - display:block;
+- [x] - text-decoration:none;
+- [] - ol type="1" "A" "a" "I" "i"> tag
+- [] - ol start="50"> tag
