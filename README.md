@@ -67,7 +67,7 @@
 - [x] - blockquote> tag
 - [x] - q> tag
 - [x] - abbr> tag
-- [x] - address> tag
+- [x] - address> tag (block-level)
 - [ ] - cite> tag
 - [ ] - bdo> tag
 - [x] - < !--Commentes--> > tag
@@ -109,7 +109,7 @@
 - [ ] - shape="default"
 - [ ] - area> tag
 - [ ] - usemap="#map"
-- [ ] - onclick="myFunction()"
+- [x] - onclick="myFunction()"
 - [x] - background-image:url("image_path.jpg");
 - [x] - background-repeat:no-repeat;
 - [x] - background-attachment:fixed;
@@ -169,3 +169,77 @@
 - [x] - text-decoration:none;
 - [] - ol type="1" "A" "a" "I" "i"> tag
 - [] - ol start="50"> tag
+- [] - BLOCK-LEVEL ELEMENTS:
+- [] - address>
+- [] - article>
+- [] - aside>
+- [] - blockquote>
+- [] - canvas>
+- [] - dd>
+- [] - dl>
+- [] - dt>
+- [] - div>
+- [] - fieldset>
+- [] - fieldcaption>
+- [] - figure>
+- [] - footer>
+- [] - form>
+- [] - h1-h6>
+- [] - header>
+- [] - hr>
+- [] - li>
+- [] - main>
+- [] - nav>
+- [] - noscript>
+- [] - ol>
+- [] - p>
+- [] - pre>
+- [] - section>
+- [] - table>
+- [] - tfoot>
+- [] - ul>
+- [] - video>
+- [] - INLINE ELEMENTS
+- [] - a>
+- [] - abbr>
+- [] - acronym>
+- [] - b>
+- [] - bdo>
+- [] - big>
+- [] - br>
+- [] - button>
+- [] - cite>
+- [] - code>
+- [] - dfn>
+- [] - em>
+- [] - i>
+- [] - img>
+- [] - input>
+- [] - kbd>
+- [] - label>
+- [] - map>
+- [] - object>
+- [] - output>
+- [] - q>
+- [] - samp>
+- [] - script>
+- [] - select>
+- [] - small>
+- [] - span>
+- [] - strong>
+- [] - sub>
+- [] - sup>
+- [] - textarea>
+- [] - time>
+- [] - tt>
+- [] - var>
+- [] - margin:auto;
+- [] - overflow:auto;
+- [] - display:inline-block;
+- [] - display:flex;
+- [] - display:grid;
+- [] - grid-template-colomns:33% 33% 33%;
+- [] - div class="className">
+- [] - div id="uniqueID">
+- [] - getElementsByClassName()
+- [] - geElementById()
