@@ -243,3 +243,17 @@
 - [] - div id="uniqueID">
 - [] - getElementsByClassName()
 - [] - geElementById()
+- [x] - button type="button">
+- [] - button type="submit">
+- [] - button type="reset">
+- [] - button disabled>
+- [x] - cursor:pointer;
+- [] - button onclick = "alert('Hello!')">
+- [] - iframe src="url" title="description" height="" weight="" border:none>
+- [] - document.getElementById("uniqueID").innerHTML= Date();
+- [] - document.getElementById("uniqueID").innerHTML= "Hello"";
+- [] - document.getElementById("uniqueID").style.fontSize="";
+- [] - document.getElementById("uniqueID").style.color="";
+- [] - document.getElementById("uniqueID").style.backgroundColor="";
+- [] - document.getElementById("uniqueID").src="";
+- [] - noscript>Sorry!Browser doesnt support script;
