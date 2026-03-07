@@ -1,20 +1,15 @@
-/* Primary Accent (Subtle Teal)
-→ #2A9D8F
-Dark Accent
-→ #1F6F66
-Light Accent Background
-→ #E6F4F2
-Main Background
-→ #FAFAFA
-Main Text
-→ #222222
-Muted Text
-→ #6C757D */
+/* Primary Accent (Subtle Teal) → #2A9D8F
+Dark Accent → #1F6F66
+Light Accent Background → #E6F4F2
+Main Background → #FAFAFA
+Main Text → #222222
+Muted Text → #6C757D */
 body {
   background-color: #fafafa;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   padding: 0;
   margin: 0;
+  text-align: center;
 }
 img {
   margin: 10px;
@@ -144,7 +139,6 @@ section {
 }
 footer a {
   background-color: #2a9d8f;
-  color: #222222;
 }
 #btnFooter {
   background-color: #2a9d8f;
@@ -152,6 +146,9 @@ footer a {
   padding: 4px 8px;
   border: none;
   cursor: pointer;
+}
+#btnFooter a {
+  color: #222222;
 }
 #btnGithub {
   background-color: #2a9d8f;
