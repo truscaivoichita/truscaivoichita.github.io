@@ -13,80 +13,88 @@
   - [x] - HTML
   - [x] - CSS
   - [x] - JavaScript
-  - [] - GIT & Github
-  - [] - React/Angular
-  - [] - SpringBoot
-  - [] - RestAPIs with SpringBoot
-  - [] - MySQL/PostgreeSQL/MangoDB
-  - [] - Authentification+Deployment(JWT,QAuth, Docker, AWS)
-  - [] - Deploy first FULL PROJECT
+  - [ ] - GIT & Github
+  - [ ] - React/Angular
+  - [ ] - SpringBoot
+  - [ ] - RestAPIs with SpringBoot
+  - [ ] - MySQL/PostgreeSQL/MangoDB
+  - [ ] - Authentification+Deployment(JWT,QAuth, Docker, AWS)
+  - [ ] - Deploy first FULL PROJECT
 
-## - [ ] - Projects
+## - Projects
 
 - [x] - Portfolio(in progress)
 - [x] - Truscai Transport(in progress)
 - [x] - Logistics Dashboard(coming soon)
-    Features:
+  - Features:
     - Add delivery points
     - Show route on map
     - Calculate distance
     - Optimize route
-      Technologies:
+  - Technologies:
     - JavaScript
     - Map API (Leaflet or Google Maps)
     - Geolocation
-- []- Task Manager (coming soon)
-  Features
-  - Add tasks
-  - Mark tasks complete
-  - Delete tasks
-  - LocalStorage persistence
-    Technologies
-  - HTML
-  - CSS
-  - JavaScript
-    Live Demo
-    (link)
-- []- Weather App (coming soon)
-  Features
-  - Search city
-  - Display:
-    - temperature
-    - humidity
-    - wind
-    - weather icon
-  - Loading state
-  - Error handling
-    Technologies
-  - JavaScript
-  - REST API
-  - fetch()
-  - JSON
-    Example API:
-  - OpenWeather API
+- [ ]- Task Manager (coming soon)
+  - Features
+    - Add tasks
+    - Mark tasks complete
+    - Delete tasks
+    - LocalStorage persistence
+  - Technologies
+    - HTML
+    - CSS
+    - JavaScript
+  - Live Demo
+    -(link)
+- [ ]- Weather App (coming soon)
+  - Features
+    - Search city
+    - Display:
+      - temperature
+      - humidity
+      - wind
+      - weather icon
+    - Loading state
+    - Error handling
+  - Technologies
+    - JavaScript
+    - REST API
+    - fetch()
+    - JSON
+  - Example API:
+    - OpenWeather API
 
-- []- CRUD Notes App (bigger project)
-  Features
-  Create note - Edit note - Delete note - Search notes - Save notes - Technologies
-  Frontend - HTML
-  -CSS
-  -JavaScript
-  Optional upgrade - Node.js - Express
+- [ ]- CRUD Notes App (bigger project)
+  - Features
+    - Create note
+    - Edit note
+    - Delete note
+    - Search notes
+    - Save notes
+  - Technologies
+    -Frontend
+    - HTML
+      -CSS
+      -JavaScript
+      -Optional upgrade
+    - Node.js
+    - Express
 
-- []- Recipe Finder (Search + API)
-  Features
-  - Search recipe
-  - Show ingredients
-  - Show cooking instructions
-  - Show image
-  - Save favorites
-    Technologies
-  - JavaScript
-  - API
-  - Fetch
-  - DOM
-    Example API:
-  - TheMealDB API
+- [ ]- Recipe Finder (Search + API)
+  - Features
+    - Search recipe
+    - Show ingredients
+    - Show cooking instructions
+    - Show image
+    - Save favorites
+  - Technologies
+    - JavaScript
+    - API
+    - Fetch
+    - DOM
+  - Example API:
+    - TheMealDB API
 
 ## Technologies
 
