@@ -10,20 +10,34 @@
 
   - [x] - HTML
   - [x] - CSS
-  - [ ] - JavaScript
-  - [ ] - GIT & Github
-  - [ ] - React/Angular
-  - [ ] - SpringBoot
-  - [ ] - RestAPIs with SpringBoot
-  - [ ] - MySQL/PostgreeSQL/MangoDB
-  - [ ] - Authentification+Deployment(JWT,QAuth, Docker, AWS)
-  - [ ] - Deploy first FULL PROJECT
+  - [x] - JavaScript
+  - [] - GIT & Github
+  - [] - React/Angular
+  - [] - SpringBoot
+  - [] - RestAPIs with SpringBoot
+  - [] - MySQL/PostgreeSQL/MangoDB
+  - [] - Authentification+Deployment(JWT,QAuth, Docker, AWS)
+  - [] - Deploy first FULL PROJECT
 
 ## - [ ] - Projects
 
 - [x] - Portfolio
 
 ## - [x] - Tehnologies used:
+
+- [x] -Technologies Used
+- [x] -HTML5
+- [x] -CSS3
+- [x] -JavaScript (basic)
+
+## - [x] -Features:
+
+- [x] -✔ Semantic HTML structure
+- [x] -✔ Responsive layout
+- [x] -✔ Accessible navigation
+- [x] -✔ Photography image map
+- [x] -✔ External project links
+- [x] -✔ GitHub Pages deployment
 
 - [x] - HTML
 - [x] !DOCTYPE html>
@@ -94,26 +108,26 @@
 - [x] - "...\_blank"
 - [ ] - "...\_parent"
 - [ ] - "...\_top"
-- [ ] - Absolute URL
-- [ ] - Relative URL
-- [ ] - a href="...">img src="..."></a>
-- [ ] - bookmarks (id="#goTo...")
-- [ ] - map> tag
-- [ ] - name="workmap"
-- [ ] - shape="rect"
-- [ ] - coords="margin-left-px, top-px, margin-right-px, top-px"
+- [x] - Absolute URL
+- [x] - Relative URL
+- [x] - a href="...">img src="..."></a>
+- [x] - bookmarks (id="#goTo...")
+- [x] - map> tag
+- [x] - name="workmap"
+- [x] - shape="rect"
+- [x] - coords="margin-left-px, top-px, margin-right-px, top-px"
 - [ ] - shape="circle"
 - [ ] - coords="center-top, center-left, radius"
 - [ ] - shape="poly"
 - [ ] - coords="all x anf y coordinates"
 - [ ] - shape="default"
-- [ ] - area> tag
-- [ ] - usemap="#map"
+- [x] - area> tag
+- [x] - usemap="#map"
 - [x] - onclick="myFunction()"
 - [x] - background-image:url("image_path.jpg");
 - [x] - background-repeat:no-repeat;
 - [x] - background-attachment:fixed;
-- [ ] - background-size:cover;
+- [x] - background-size:cover;
 - [x] - background-size:100% 100%;
 - [ ] - picture> tag
 - [ ] - source> tag
@@ -170,10 +184,10 @@
 - [] - ol type="1" "A" "a" "I" "i"> tag
 - [] - ol start="50"> tag
 - [] - BLOCK-LEVEL ELEMENTS:
-- [] - address>
-- [] - article>
-- [] - aside>
-- [] - blockquote>
+- [x] - address>
+- [x] - article>
+- [x] - aside>
+- [x] - blockquote>
 - [] - canvas>
 - [] - dd>
 - [] - dl>
@@ -181,20 +195,20 @@
 - [] - div>
 - [] - fieldset>
 - [] - fieldcaption>
-- [] - figure>
-- [] - footer>
+- [x] - figure>
+- [x] - footer>
 - [] - form>
 - [] - h1-h6>
-- [] - header>
+- [x] - header>
 - [] - hr>
 - [] - li>
-- [] - main>
-- [] - nav>
+- [x] - main>
+- [x] - nav>
 - [] - noscript>
 - [] - ol>
 - [] - p>
 - [] - pre>
-- [] - section>
+- [x] - section>
 - [] - table>
 - [] - tfoot>
 - [] - ul>
@@ -209,7 +223,7 @@
 - [] - br>
 - [] - button>
 - [] - cite>
-- [] - code>
+- [x] - code>
 - [] - dfn>
 - [] - em>
 - [] - i>
@@ -222,7 +236,7 @@
 - [] - output>
 - [] - q>
 - [] - samp>
-- [] - script>
+- [x] - script>
 - [] - select>
 - [] - small>
 - [] - span>
@@ -230,7 +244,7 @@
 - [] - sub>
 - [] - sup>
 - [] - textarea>
-- [] - time>
+- [x] - time>
 - [] - tt>
 - [] - var>
 - [] - margin:auto;
@@ -257,39 +271,39 @@
 - [] - document.getElementById("uniqueID").style.backgroundColor="";
 - [] - document.getElementById("uniqueID").src="";
 - [] - noscript>Sorry!Browser doesnt support script;
-- [] - meta charset="UTF-8">;
-- [] - meta name="keywords" content="HTML, CSS, JavaScript">;
-- [] - meta name="author" content="John Doe">;
-- [] - meta http-equiv="refresh" content="30">;
-- [] - meta name="viewport" content="width=device-width; initial-scale=1.0">;
+- [x] - meta charset="UTF-8">;
+- [x] - meta name="keywords" content="HTML, CSS, JavaScript">;
+- [x] - meta name="author" content="John Doe">;
+- [x] - meta http-equiv="refresh" content="30">;
+- [x] - meta name="viewport" content="width=device-width; initial-scale=1.0">;
 - [] - base href="" target="">
-- [] - header>
-- [] - nav>
-- [] - section>
-- [] - article>
-- [] - aside>
-- [] - footer>
+- [x] - header>
+- [x] - nav>
+- [x] - section>
+- [x] - article>
+- [x] - aside>
+- [x] - footer>
 - [] - details>
 - [] - summary>
 - [] - img src="" style="max-width:100%; height:auto;"
 - [] - h1 style="font-size:10vw">
 - [] - kbd>
 - [] - samp>
-- [] - code>
+- [x] - code>
 - [] - pre:
 - [] - var:
 - [] - SEMANTIC ELEMENTS
-- [] - article>
-- [] - aside>
+- [x] - article>
+- [x] - aside>
 - [] - details>
-- [] - figcaption>
-- [] - figure>
-- [] - footer>
-- [] - header>
-- [] - main>
+- [x] - figcaption>
+- [x] - figure>
+- [x] - footer>
+- [x] - header>
+- [x] - main>
 - [] - mark>
-- [] - nav>
-- [] - section>
+- [x] - nav>
+- [x] - section>
 - [] - summary>
-- [] - time>
+- [x] - time>
 - [] -
