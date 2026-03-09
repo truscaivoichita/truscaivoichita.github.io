@@ -35,7 +35,7 @@
     - JavaScript
     - Map API (Leaflet or Google Maps)
     - Geolocation
-- [ ]- Task Manager (coming soon)
+- [ ] - Task Manager (coming soon)
   - Features
     - Add tasks
     - Mark tasks complete
@@ -47,7 +47,7 @@
     - JavaScript
   - Live Demo
     -(link)
-- [ ]- Weather App (coming soon)
+- [ ] - Weather App (coming soon)
   - Features
     - Search city
     - Display:
@@ -65,7 +65,7 @@
   - Example API:
     - OpenWeather API
 
-- [ ]- CRUD Notes App (bigger project)
+- [ ] - CRUD Notes App (bigger project)
   - Features
     - Create note
     - Edit note
@@ -81,7 +81,7 @@
     - Node.js
     - Express
 
-- [ ]- Recipe Finder (Search + API)
+- [ ] - Recipe Finder (Search + API)
   - Features
     - Search recipe
     - Show ingredients
@@ -214,168 +214,168 @@
 - [x] - border-collapse:collapse;
 - [x] - border-radius:10px;
 - [x] - border-style:none;
-- [] - border-style:dotted;
-- [] - border-style:dashed;
-- [] - border-style:solid;
-- [] - border-style:double;
-- [] - border-style:grove;
-- [] - border-style:ridge;
-- [] - border-style:inset;
-- [] - border-style:outset;
-- [] - border-style:hidden;
-- [] - border-color:#fff;
-- [] - border-spacing:30px;
-- [] - border-bottom:10px;
+- [ ] - border-style:dotted;
+- [ ] - border-style:dashed;
+- [ ] - border-style:solid;
+- [ ] - border-style:double;
+- [ ] - border-style:grove;
+- [ ] - border-style:ridge;
+- [ ] - border-style:inset;
+- [ ] - border-style:outset;
+- [ ] - border-style:hidden;
+- [ ] - border-color:#fff;
+- [ ] - border-spacing:30px;
+- [ ] - border-bottom:10px;
 - [x] - width:100%;
-- [] - height:200px;
-- [] - colspan="2";
-- [] - rowspan="2";
-- [] - caption> tag
-- [] - padding-top;
-- [] - padding-left;
-- [] - padding-right;
-- [] - padding-bottom;
-- [] - :nth-child(even/odd);
-- [] - colgroup> tag
-- [] - col> tag
-- [] - span="2";
-- [] - visibility:collapse;
+- [ ] - height:200px;
+- [ ] - colspan="2";
+- [ ] - rowspan="2";
+- [ ] - caption> tag
+- [ ] - padding-top;
+- [ ] - padding-left;
+- [ ] - padding-right;
+- [ ] - padding-bottom;
+- [ ] - :nth-child(even/odd);
+- [ ] - colgroup> tag
+- [ ] - col> tag
+- [ ] - span="2";
+- [ ] - visibility:collapse;
 - [x] - ul> tag
 - [x] - li> tag
-- [] - ol> tag
-- [] - dl> tag
-- [] - dt> tag
-- [] - dd> tag
+- [ ] - ol> tag
+- [ ] - dl> tag
+- [ ] - dt> tag
+- [ ] - dd> tag
 - [x] - list-style-type:none;
-- [] - list-style-type:disc;
-- [] - list-style-type:circle;
-- [] - list-style-type:square;
+- [ ] - list-style-type:disc;
+- [ ] - list-style-type:circle;
+- [ ] - list-style-type:square;
 - [x] - overflow:hidden;
 - [x] - display:block;
 - [x] - text-decoration:none;
-- [] - ol type="1" "A" "a" "I" "i"> tag
-- [] - ol start="50"> tag
-- [] - BLOCK-LEVEL ELEMENTS:
+- [ ] - ol type="1" "A" "a" "I" "i"> tag
+- [ ] - ol start="50"> tag
+- [ ] - BLOCK-LEVEL ELEMENTS:
 - [x] - address>
 - [x] - article>
 - [x] - aside>
 - [x] - blockquote>
-- [] - canvas>
-- [] - dd>
-- [] - dl>
-- [] - dt>
-- [] - div>
-- [] - fieldset>
-- [] - fieldcaption>
+- [ ] - canvas>
+- [ ] - dd>
+- [ ] - dl>
+- [ ] - dt>
+- [ ] - div>
+- [ ] - fieldset>
+- [ ] - fieldcaption>
 - [x] - figure>
 - [x] - footer>
-- [] - form>
-- [] - h1-h6>
+- [ ] - form>
+- [ ] - h1-h6>
 - [x] - header>
-- [] - hr>
-- [] - li>
+- [ ] - hr>
+- [ ] - li>
 - [x] - main>
 - [x] - nav>
-- [] - noscript>
-- [] - ol>
-- [] - p>
-- [] - pre>
+- [ ] - noscript>
+- [ ] - ol>
+- [ ] - p>
+- [ ] - pre>
 - [x] - section>
-- [] - table>
-- [] - tfoot>
-- [] - ul>
-- [] - video>
-- [] - INLINE ELEMENTS
-- [] - a>
-- [] - abbr>
-- [] - acronym>
-- [] - b>
-- [] - bdo>
-- [] - big>
-- [] - br>
-- [] - button>
-- [] - cite>
+- [ ] - table>
+- [ ] - tfoot>
+- [ ] - ul>
+- [ ] - video>
+- [ ] - INLINE ELEMENTS
+- [ ] - a>
+- [ ] - abbr>
+- [ ] - acronym>
+- [ ] - b>
+- [ ] - bdo>
+- [ ] - big>
+- [ ] - br>
+- [ ] - button>
+- [ ] - cite>
 - [x] - code>
-- [] - dfn>
-- [] - em>
-- [] - i>
-- [] - img>
-- [] - input>
-- [] - kbd>
-- [] - label>
-- [] - map>
-- [] - object>
-- [] - output>
-- [] - q>
-- [] - samp>
+- [ ] - dfn>
+- [ ] - em>
+- [ ] - i>
+- [ ] - img>
+- [ ] - input>
+- [ ] - kbd>
+- [ ] - label>
+- [ ] - map>
+- [ ] - object>
+- [ ] - output>
+- [ ] - q>
+- [ ] - samp>
 - [x] - script>
-- [] - select>
-- [] - small>
-- [] - span>
-- [] - strong>
-- [] - sub>
-- [] - sup>
-- [] - textarea>
+- [ ] - select>
+- [ ] - small>
+- [ ] - span>
+- [ ] - strong>
+- [ ] - sub>
+- [ ] - sup>
+- [ ] - textarea>
 - [x] - time>
-- [] - tt>
-- [] - var>
-- [] - margin:auto;
-- [] - overflow:auto;
-- [] - display:inline-block;
-- [] - display:flex;
-- [] - display:grid;
-- [] - grid-template-colomns:33% 33% 33%;
-- [] - div class="className">
-- [] - div id="uniqueID">
-- [] - getElementsByClassName()
-- [] - geElementById()
+- [ ] - tt>
+- [ ] - var>
+- [ ] - margin:auto;
+- [ ] - overflow:auto;
+- [ ] - display:inline-block;
+- [ ] - display:flex;
+- [ ] - display:grid;
+- [ ] - grid-template-colomns:33% 33% 33%;
+- [ ] - div class="className">
+- [ ] - div id="uniqueID">
+- [ ] - getElementsByClassName()
+- [ ] - geElementById()
 - [x] - button type="button">
-- [] - button type="submit">
-- [] - button type="reset">
-- [] - button disabled>
+- [ ] - button type="submit">
+- [ ] - button type="reset">
+- [ ] - button disabled>
 - [x] - cursor:pointer;
-- [] - button onclick = "alert('Hello!')">
-- [] - iframe src="url" title="description" height="" weight="" border:none>
-- [] - document.getElementById("uniqueID").innerHTML= Date();
-- [] - document.getElementById("uniqueID").innerHTML= "Hello"";
-- [] - document.getElementById("uniqueID").style.fontSize="";
-- [] - document.getElementById("uniqueID").style.color="";
-- [] - document.getElementById("uniqueID").style.backgroundColor="";
-- [] - document.getElementById("uniqueID").src="";
-- [] - noscript>Sorry!Browser doesnt support script;
+- [ ] - button onclick = "alert('Hello!')">
+- [ ] - iframe src="url" title="description" height="" weight="" border:none>
+- [ ] - document.getElementById("uniqueID").innerHTML= Date();
+- [ ] - document.getElementById("uniqueID").innerHTML= "Hello"";
+- [ ] - document.getElementById("uniqueID").style.fontSize="";
+- [ ] - document.getElementById("uniqueID").style.color="";
+- [ ] - document.getElementById("uniqueID").style.backgroundColor="";
+- [ ] - document.getElementById("uniqueID").src="";
+- [ ] - noscript>Sorry!Browser doesnt support script;
 - [x] - meta charset="UTF-8">;
 - [x] - meta name="keywords" content="HTML, CSS, JavaScript">;
 - [x] - meta name="author" content="John Doe">;
 - [x] - meta http-equiv="refresh" content="30">;
 - [x] - meta name="viewport" content="width=device-width; initial-scale=1.0">;
-- [] - base href="" target="">
+- [ ] - base href="" target="">
 - [x] - header>
 - [x] - nav>
 - [x] - section>
 - [x] - article>
 - [x] - aside>
 - [x] - footer>
-- [] - details>
-- [] - summary>
-- [] - img src="" style="max-width:100%; height:auto;"
-- [] - h1 style="font-size:10vw">
-- [] - kbd>
-- [] - samp>
+- [ ] - details>
+- [ ] - summary>
+- [ ] - img src="" style="max-width:100%; height:auto;"
+- [ ] - h1 style="font-size:10vw">
+- [ ] - kbd>
+- [ ] - samp>
 - [x] - code>
-- [] - pre:
-- [] - var:
-- [] - SEMANTIC ELEMENTS
+- [ ] - pre:
+- [ ] - var:
+- [ ] - SEMANTIC ELEMENTS
 - [x] - article>
 - [x] - aside>
-- [] - details>
+- [ ] - details>
 - [x] - figcaption>
 - [x] - figure>
 - [x] - footer>
 - [x] - header>
 - [x] - main>
-- [] - mark>
+- [ ] - mark>
 - [x] - nav>
 - [x] - section>
-- [] - summary>
+- [ ] - summary>
 - [x] - time>
-- [] -
+- [ ] -
