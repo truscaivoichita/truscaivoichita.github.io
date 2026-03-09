@@ -1,8 +1,10 @@
-# truscaivoichita.github.io
+# Portfolio
 
 ## Personal Portfolio of Voichita Maria Truscai
 
-# link [here](https://truscaivoichita.github.io/)
+## Live Demo
+
+[link](https://truscaivoichita.github.io/)
 
 - [x] - About me
 
@@ -21,11 +23,73 @@
 
 ## - [ ] - Projects
 
-- [x] - Portfolio
+- [x] - Portfolio(in progress)
+- [x] - Truscai Transport(in progress)
+- [x] - Logistics Dashboard(coming soon)
+    Features:
+    - Add delivery points
+    - Show route on map
+    - Calculate distance
+    - Optimize route
+      Technologies:
+    - JavaScript
+    - Map API (Leaflet or Google Maps)
+    - Geolocation
+- []- Task Manager (coming soon)
+  Features
+  - Add tasks
+  - Mark tasks complete
+  - Delete tasks
+  - LocalStorage persistence
+    Technologies
+  - HTML
+  - CSS
+  - JavaScript
+    Live Demo
+    (link)
+- []- Weather App (coming soon)
+  Features
+  - Search city
+  - Display:
+    - temperature
+    - humidity
+    - wind
+    - weather icon
+  - Loading state
+  - Error handling
+    Technologies
+  - JavaScript
+  - REST API
+  - fetch()
+  - JSON
+    Example API:
+  - OpenWeather API
 
-## - [x] - Tehnologies used:
+- []- CRUD Notes App (bigger project)
+  Features
+  Create note - Edit note - Delete note - Search notes - Save notes - Technologies
+  Frontend - HTML
+  -CSS
+  -JavaScript
+  Optional upgrade - Node.js - Express
 
-- [x] -Technologies Used
+- []- Recipe Finder (Search + API)
+  Features
+  - Search recipe
+  - Show ingredients
+  - Show cooking instructions
+  - Show image
+  - Save favorites
+    Technologies
+  - JavaScript
+  - API
+  - Fetch
+  - DOM
+    Example API:
+  - TheMealDB API
+
+## Technologies
+
 - [x] -HTML5
 - [x] -CSS3
 - [x] -JavaScript (basic)
