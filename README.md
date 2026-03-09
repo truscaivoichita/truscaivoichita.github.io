@@ -257,3 +257,39 @@
 - [] - document.getElementById("uniqueID").style.backgroundColor="";
 - [] - document.getElementById("uniqueID").src="";
 - [] - noscript>Sorry!Browser doesnt support script;
+- [] - meta charset="UTF-8">;
+- [] - meta name="keywords" content="HTML, CSS, JavaScript">;
+- [] - meta name="author" content="John Doe">;
+- [] - meta http-equiv="refresh" content="30">;
+- [] - meta name="viewport" content="width=device-width; initial-scale=1.0">;
+- [] - base href="" target="">
+- [] - header>
+- [] - nav>
+- [] - section>
+- [] - article>
+- [] - aside>
+- [] - footer>
+- [] - details>
+- [] - summary>
+- [] - img src="" style="max-width:100%; height:auto;"
+- [] - h1 style="font-size:10vw">
+- [] - kbd>
+- [] - samp>
+- [] - code>
+- [] - pre:
+- [] - var:
+- [] - SEMANTIC ELEMENTS
+- [] - article>
+- [] - aside>
+- [] - details>
+- [] - figcaption>
+- [] - figure>
+- [] - footer>
+- [] - header>
+- [] - main>
+- [] - mark>
+- [] - nav>
+- [] - section>
+- [] - summary>
+- [] - time>
+- [] -
