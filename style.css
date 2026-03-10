@@ -111,6 +111,31 @@ ul {
   text-align: left;
 }
 
+#contactForm {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+#contactForm input,
+#contactForm textarea {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+#contactForm button {
+  width: 150px;
+  padding: 10px;
+  border: none;
+  background: #2a9d8f;
+  color: #ffffff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+#contactForm button:hover {
+  background: #1f6f66;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;

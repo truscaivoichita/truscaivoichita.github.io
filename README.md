@@ -378,4 +378,11 @@
 - [x] - section>
 - [ ] - summary>
 - [x] - time>
-- [ ] -
+- [ ] - form action="">
+- [ ] - label for="">
+- [ ] - input type="text">
+- [ ] - input type="radio">
+- [ ] - input type="checkbox">
+- [ ] - input type="submit">
+- [ ] - input type="button">
+- [ ] - input name="" value="">
