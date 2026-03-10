@@ -204,7 +204,7 @@ footer a {
 #btnFooter a {
   color: #222222;
 }
-#btnGithub {
+.btnGithub {
   background-color: #2a9d8f;
   border-radius: 5px;
   padding: 4px 8px;

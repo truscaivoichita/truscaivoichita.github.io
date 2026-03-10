@@ -25,7 +25,7 @@
 
 - [x] - Portfolio(in progress)
 - [x] - Truscai Transport(in progress)
-- [x] - Logistics Dashboard(coming soon)
+- [x] - Logistics Dashboard(in progress)
   - Features:
     - Add delivery points
     - Show route on map
