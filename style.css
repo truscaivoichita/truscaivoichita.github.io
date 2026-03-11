@@ -1,9 +1,12 @@
-/* Primary Accent (Subtle Teal) → #2A9D8F
-Dark Accent → #1F6F66
-Light Accent Background → #E6F4F2
-Main Background → #FAFAFA
-Main Text → #222222
-Muted Text → #6C757D */
+/*
+#2a9d8f → Primary Accent (Subtle Teal) 
+#1f6f66 → Dark Accent (hover)
+#E6F4F2 → Light Accent Background
+#FAFAFA → Main Background
+#222222 → Main Text
+#6c757d → Muted Text  */
+
+/* General Section */
 body {
   background-color: #fafafa;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -11,14 +14,59 @@ body {
   margin: 0;
   text-align: center;
 }
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #6c757d;
+}
+h2 {
+  margin: 10px;
+  padding: 20px;
+  color: #2a9d8f;
+}
+ul {
+  list-style-type: none;
+  text-align: left;
+}
+section {
+  margin: 30px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* Header Section */
 header {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding: 20px;
+  color: #2a9d8f;
+}
+a#link {
+  background-color: #ffffff;
+  border: none;
+  padding: 0px;
+}
+body > a:last-of-type {
+  float: right;
+}
+a:hover {
+  background-color: #1f6f66;
+  color: #ffffff;
+  text-decoration: none;
+}
+a:active {
+  color: red;
+}
 img {
   margin: 10px;
-  /* float: left; */
   padding: 5px;
   border-radius: 3px;
 }
@@ -34,24 +82,23 @@ p#top {
   margin: 10px auto;
   max-width: 700px;
 }
+
+/* Nav Section */
 nav {
   background-color: #e6f4f2;
   padding: 10px;
-  text-align: left;
 }
 nav ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   overflow: hidden;
-  margin: 0;
   padding: 0;
   border-radius: 3px;
-  /* background-color: #e6f4f2; */
 }
 nav ul li {
-  /* float: left; */
   margin: 5px 15px;
+  margin: 0 auto;
 }
 nav ul a {
   display: block;
@@ -66,76 +113,34 @@ nav a {
   border-radius: 3px;
   font-weight: 400;
 }
-a#link {
-  background-color: #ffffff;
-  border: none;
-  padding: 0px;
-  /* float: left; */
-}
-body > a:last-of-type {
-  float: right;
-}
-a:link {
-  color: #2a9d8f;
-}
-a:hover {
+
+/* Projects Section */
+#projects a {
   background-color: #2a9d8f;
-  color: #ffffff;
+  color: #222222;
+  padding: 6px 12px;
+  border-radius: 5px;
   text-decoration: none;
 }
-a:active {
-  color: red;
-}
-h1 {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  text-align: center;
-  padding: 20px;
-  color: #2a9d8f;
-}
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  color: #6c757d;
-}
-h2 {
-  margin: 10px;
-  padding: 20px;
-  color: #2a9d8f;
-}
-
-ul {
-  list-style-type: none;
-  text-align: left;
-}
-
-#contactForm {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  margin-top: 20px;
-}
-#contactForm input,
-#contactForm textarea {
-  padding: 8px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-}
-#contactForm button {
-  width: 150px;
-  padding: 10px;
-  border: none;
-  background: #2a9d8f;
+#projects a:hover {
+  background-color: #1f6f66;
   color: #ffffff;
-  border-radius: 4px;
-  cursor: pointer;
-}
-#contactForm button:hover {
-  background: #1f6f66;
 }
 
+/* Contact Section */
+#contact a {
+  background-color: #2a9d8f;
+  color: #222222;
+  padding: 6px 12px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+#contact a:hover {
+  background-color: #1f6f66;
+  color: #ffffff;
+}
+
+/* Languages Table Section */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -163,12 +168,14 @@ tr:hover {
   color: #fafafa;
 }
 
+/* Quotes Section */
 blockquote {
   padding: 10px;
   background-color: #e6f4f2;
   border-radius: 3px;
 }
 
+/* Gallery Section */
 #galleryContainer {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -188,36 +195,49 @@ blockquote {
   margin-top: 6px;
   font-size: 0.9rem;
 }
-section {
-  margin: 30px;
+
+/* Contact Form Section */
+#contactForm {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
 }
-footer a {
-  background-color: #2a9d8f;
+#contactForm input,
+#contactForm textarea {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
-#btnFooter {
-  background-color: #2a9d8f;
-  border-radius: 5px;
-  padding: 4px 8px;
+#contactForm button {
+  width: 150px;
+  padding: 10px;
   border: none;
+  background: #2a9d8f;
+  color: #222222;
+  border-radius: 4px;
+  font-size: 15px;
   cursor: pointer;
 }
-#btnFooter a {
-  color: #222222;
-}
-.btnGithub {
-  background-color: #2a9d8f;
-  border-radius: 5px;
-  padding: 4px 8px;
-  border: none;
-  cursor: pointer;
-}
-#btnGithub a {
-  color: #222222;
-  background-color: #2a9d8f;
-}
-#btnGithub a:hover {
+#contactForm button:hover {
+  background: #1f6f66;
   color: #ffffff;
 }
+
+/* Footer Section */
+footer a {
+  background-color: #2a9d8f;
+  color: #222222;
+  border-radius: 5px;
+  padding: 6px 12px;
+  text-decoration: none;
+  cursor: pointer;
+}
+footer a:hover {
+  background-color: #1f6f66;
+}
+
+/* Media Section */
 @media (max-width: 700px) {
   #logo {
     width: 90px;

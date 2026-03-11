@@ -24,7 +24,9 @@
 ## - Projects
 
 - [x] - Portfolio(in progress)
+
 - [x] - Truscai Transport(in progress)
+
 - [x] - Logistics Dashboard(in progress)
   - Features:
     - Add delivery points
@@ -35,6 +37,7 @@
     - JavaScript
     - Map API (Leaflet or Google Maps)
     - Geolocation
+
 - [ ] - Task Manager (coming soon)
   - Features
     - Add tasks
@@ -47,6 +50,7 @@
     - JavaScript
   - Live Demo
     -(link)
+
 - [ ] - Weather App (coming soon)
   - Features
     - Search city
@@ -112,11 +116,11 @@
 - [x] -✔ GitHub Pages deployment
 
 - [x] - HTML
-- [x] !DOCTYPE html>
-- [x] html lang>
-- [x] head>
-- [x] title>
-- [x] body>
+- [x] - !DOCTYPE html>
+- [x] - html lang>
+- [x] - head>
+- [x] - title>
+- [x] - body>
 - [x] - h1> tag
 - [x] - h2> tag
 - [x] - h3> tag
