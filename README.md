@@ -380,9 +380,67 @@
 - [x] - time>
 - [ ] - form action="">
 - [ ] - label for="">
-- [ ] - input type="text">
+- [ ] - input type="button">
 - [ ] - input type="radio">
 - [ ] - input type="checkbox">
+- [ ] - input type="color">
+- [ ] - input type="date">
+- [ ] - input type="datetime-local">
+- [ ] - input type="email">
+- [ ] - input type="file">
+- [ ] - input type="hidden">
+- [ ] - input type="image" src="">
+- [ ] - input type="month">
+- [ ] - input type="number">
+- [ ] - input type="password">
+- [ ] - input type="radio">
+- [ ] - input type="range" min="" max="" step="">
+- [ ] - input type="reset">
+- [ ] - input type="search">
 - [ ] - input type="submit">
-- [ ] - input type="button">
+- [ ] - input type="tel">
+- [ ] - input type="text">
+- [ ] - input type="time">
+- [ ] - input type="url">
+- [ ] - input type="week">
 - [ ] - input name="" value="">
+- [ ] - input checked>
+- [ ] - input disabled>
+- [ ] - input max="">
+- [ ] - input maxlenght="">
+- [ ] - input min="">
+- [ ] - input pattern="">
+- [ ] - input readonly>
+- [ ] - input required>
+- [ ] - input size="">
+- [ ] - input step="">
+- [ ] - input value="">
+- [ ] - input multiple>
+- [ ] - input placeholder>
+- [ ] - input autofocus width="" height="">
+- [ ] - input autocomplete>
+- [ ] - form target="\_blank">
+- [ ] - form target="\_self">
+- [ ] - form target="\_parent">
+- [ ] - form target="\_top">
+- [ ] - form target=frameName>
+- [ ] - form method="get">
+- [ ] - form method="post">
+- [ ] - form autocomplete>
+- [ ] - form novalidate>
+- [ ] - form accept-charset>
+- [ ] - form action>
+- [ ] - form encrypte>
+- [ ] - form method>
+- [ ] - form rel>
+- [ ] - form formaction>
+- [ ] - form formenctype>
+- [ ] - form formmethod get/post>
+- [ ] - form formtarget>
+- [ ] - form formnovalidate>
+- [ ] - legend>
+- [ ] - datalist>
+- [ ] - option>
+- [ ] - optgroup>
+- [ ] - select id="" name="" size="4" multiple>
+- [ ] - textarea name="" rows="10" cols="30">
