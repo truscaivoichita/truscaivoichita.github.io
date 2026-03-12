@@ -208,6 +208,16 @@ blockquote {
   margin-top: 6px;
   font-size: 0.9rem;
 }
+.videoContainer {
+  max-width: 100%;
+  margin: 20px 0;
+  text-align: center;
+}
+.videoContainer iframe {
+  width: 100%;
+  height: 315px;
+  max-width: 560px;
+}
 
 /* Contact Form Section */
 #contactForm {
