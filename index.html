@@ -465,11 +465,23 @@
           connect.
         </p>
         <h3>Send Me a Message</h3>
-        <form action="contact.html" id="contactForm">
+        <form id="contactForm">
           <label for="name">Name</label>
-          <input type="text" name="name" id="name" required />
+          <input
+            type="text"
+            name="name"
+            id="name"
+            autocomplete="name"
+            required
+          />
           <label for="email">Email</label>
-          <input type="email" name="email" id="email" required />
+          <input
+            type="email"
+            name="email"
+            id="email"
+            autocomplete="email"
+            required
+          />
           <label for="message">Message</label>
           <textarea name="message" id="message" rows="4" required></textarea>
           <button type="submit">Send Message</button>
@@ -484,5 +496,11 @@
       </p>
     </footer>
   </body>
+  <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+  <script>
+    (function () {
+      emailjs.init("5f-_Y1UimfWVOuiD7");
+    })();
+  </script>
   <script src="index.js"></script>
 </html>
