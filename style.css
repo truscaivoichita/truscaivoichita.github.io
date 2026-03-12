@@ -14,6 +14,19 @@ body {
   margin: 0;
   text-align: center;
 }
+.dark {
+  background-color: #222222;
+  color: #fafafa;
+}
+#themeToggle {
+  background-color: #2a9d8f;
+  color: #222222;
+  padding: 10px 16px;
+  border-radius: 5px;
+  font-size: 15px;
+  border: none;
+  text-decoration: none;
+}
 h2,
 h3,
 h4,
@@ -171,7 +184,7 @@ tr:hover {
 /* Quotes Section */
 blockquote {
   padding: 10px;
-  background-color: #e6f4f2;
+  background-color: #2a9d8f;
   border-radius: 3px;
 }
 

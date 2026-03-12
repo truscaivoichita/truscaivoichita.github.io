@@ -448,3 +448,21 @@
 - [ ] - optgroup>
 - [ ] - select id="" name="" size="4" multiple>
 - [ ] - textarea name="" rows="10" cols="30">
+- [ ] - canvas id width height>
+- [ ] - svg width height>
+- [ ] - circle>
+- [ ] - rect>
+- [ ] - poly>
+- [ ] - defs>
+- [ ] - ellipse>
+- [ ] - video:mpeh/WebM/Ogg
+- [ ] - audio:mp3/WAV/Ogg
+- [ ] - object>
+- [ ] - embed>
+- [ ] - iframe width height src="http://www.youtube.com/embed/id">
+- [ ] - controls=0?playlist=id&loop=1&autoplay=1&mute=1>
+- [ ] - Geolocation API
+- [ ] - DragAndDrop API
+- [ ] - Web Storage API
+- [ ] - Server Sent Event API
+- [ ] - Canvas API
