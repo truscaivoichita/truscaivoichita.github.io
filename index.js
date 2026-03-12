@@ -29,7 +29,18 @@ function handleFormSubmit(e) {
     });
 }
 
+function countVisits() {
+  let visits = localStorage.getItem("visits");
+  if (!visits) {
+    visits = 0;
+  }
+  visits++;
+  localStorage.setItem("visits", visits);
+  document.getElementById("visits").textContent =
+    "You visited this page " + visits + " times.";
+}
 function initEvents() {
+  document.addEventListener("DOMContentLoaded", countVisits);
   toggle.addEventListener("click", toggleTheme);
   form.addEventListener("submit", handleFormSubmit);
 }
