@@ -124,12 +124,7 @@ nav ul a {
   background-color: #1f6f66;
   color: #ffffff;
 }
-/*Projects / Contact / Footer */
-#projects a,
-#contact a,
-footer a {
-  composes: btn-hover;
-}
+
 /*Table */
 table {
   width: 100%;
@@ -207,9 +202,11 @@ blockquote {
   border-radius: 4px;
 }
 #contactForm button {
-  composes: btn-hover;
   width: 150px;
   font-size: 15px;
+}
+footer p {
+  font-size: 12px;
 }
 
 /* Media Queries*/
